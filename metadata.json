@@ -1,0 +1,18 @@
+{
+  "name": "nikhil-profiles",
+  "version": "0.1.0",
+  "author": "nikhil",
+  "summary": null,
+  "license": "Apache-2.0",
+  "source": "https://github.com/nikhil-zadoo/puppet-profiles.git",
+  "project_page": "https://github.com/nikhil-zadoo/puppet-profiles",
+  "issues_url": "https://github.com/nikhil-zadoo/puppet-profiles/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
